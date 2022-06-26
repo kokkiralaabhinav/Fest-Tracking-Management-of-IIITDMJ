@@ -1,4 +1,4 @@
-# ✨ Telugu Health  ✨
+# ✨ SYKNET SERVICES  ✨
 
 This is a web based application developed for skynet services
 
