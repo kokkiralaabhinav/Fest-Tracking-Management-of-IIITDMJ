@@ -36,11 +36,12 @@ This is a web based application developed for transporting of posts/gifts
 
 ### Non Technical Events -
 
-![image](https://user-images.githubusercontent.com/108206047/175860138-7642a57e-04f9-451b-a02d-4ed7d492f7a4.png)
+![image](https://user-images.githubusercontent.com/108206047/175861236-7f030af8-4c1f-4be0-a05d-86c245298abe.png)
+
 
 ![image](https://user-images.githubusercontent.com/108206047/175860172-8a8e03a8-ef12-4e32-9364-805ebc0e95e8.png)
 
-![image](https://user-images.githubusercontent.com/108206047/175860208-004720c1-a707-4b5a-8a22-65e3e800280f.png)
+
 
 
 ### Registraction -
