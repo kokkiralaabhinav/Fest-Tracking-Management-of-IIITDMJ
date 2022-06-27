@@ -1,0 +1,58 @@
+<html>
+    <head>
+     <style>
+	
+	body,html{
+        background-image: url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
+        background-position: center; background-repeat: no-repeat; background-size: cover;
+        
+    }
+          #main{padding-top:25px;
+                float: left;}
+         #buttons{color:white;
+                     padding-top:50px;
+                    float: right;}
+          div.a{text-align: center; }
+     #slide{margin-top:0px;
+       margin-left:10px;
+       margin-right:10px;
+       }
+     </style>
+    </head>
+    <body>
+<div id="main">
+       <a href="https://www.iiitdmj.ac.in/"><img src="https://www.iiitdmj.ac.in/rspc.iiitdmj.ac.in/assets/img/logo-lxx-m.png" width="320" height="100"></a>
+     </div>
+        <div id="buttons">
+            
+			<h4><b><a href="file:///C:/Users/KOKKIRALA%20ABHINAV/Downloads/xampp/htdocs/abhi1/project%20no%2065/admin%20page.html" style="text-decoration:none;">HOME</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="file:///C:/Users/KOKKIRALA%20ABHINAV/Downloads/xampp/htdocs/abhi1/project%20no%2065/technical%20fest.html" style="text-decoration: none;">TECHNICAL EVENTS</a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="file:///C:/Users/KOKKIRALA%20ABHINAV/Downloads/xampp/htdocs/abhi1/project%20no%2065/non%20technical%20events.html" style="text-decoration: none;">NON TECHNICAL EVENTS</a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="http://localhost/abhi1/project%20no%2065/loginsystem/signup.php" style="text-decoration: none;">REGISTERATION</a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="http://localhost/abhi1/project%20no%2065/loginsystem/login.php" style="text-decoration: none;">STUDENT LOGIN</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="http://localhost/abhi1/project%20no%2065/loginsystem/admin/" style="text-decoration: none;">ADMIN LOGIN</a></b></h4>
+           </div>
+		   
+        <div id="slide">
+  
+ 
+  <img class="mySlides" src="https://i.ytimg.com/vi/GIhUJZUovRo/maxresdefault.jpg" width=1500 height=600>
+  <img class="mySlides" src="http://www.iiitdmj.ac.in/img/tour/img-3.jpg"  width=1500 height=600>
+  <img class="mySlides" src="https://www.iiitdmj.ac.in/badminton.iiitdmj.ac.in/images/court1.jpeg" width=1500 height=600>
+  <img class="mySlides" src="https://www.admissionfever.com/Media/clgimg/gallery/1965_img8386796874788288.png"  width=1500 height=600>
+  <img class="mySlides" src="https://www.iiitdmj.ac.in/img/slides/15.jpg"  width=1500 height=600>
+   </div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}    
+  x[myIndex-1].style.display = "block";  
+  setTimeout(carousel, 2000); 
+}
+</script>
+    </body>
+</html>
