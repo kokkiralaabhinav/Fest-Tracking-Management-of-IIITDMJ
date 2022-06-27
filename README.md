@@ -63,6 +63,7 @@ This is a web based application developed for transporting of posts/gifts
 ## Tech Stack 💻
 - HTML
 - CSS
-- phpmysql
+- mysql
+- php
 - Bootstrap
 - JavaScript
