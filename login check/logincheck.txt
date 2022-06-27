@@ -1,0 +1,7 @@
+ADMIN PANNEL :
+User ID : admin
+Password :Test@12345
+
+User Login pannel :
+User ID : kokkiralaabhinav@gmail.com
+user Password : Abhinav2003
