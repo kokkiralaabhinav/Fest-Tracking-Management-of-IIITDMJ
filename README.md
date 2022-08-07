@@ -1,7 +1,7 @@
 # FEST EVENTS
 # ✨ FEST TRACKING AND MANAGEMENT OF IIITDMJ✨
 
-This is a web based application developed for transporting of posts/gifts
+This is a web based application developed for conducting fest events
 
 ### This web based on the application has been developed in the college of indian institute of information technology design and manufacture,jabalpur to conduct the fest events (both technical and non tecninical) in college.
 
